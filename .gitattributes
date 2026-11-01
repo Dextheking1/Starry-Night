@@ -1,0 +1,3 @@
+# Bundled releases are generated; retain their exact build output.
+downloads/* linguist-generated=true
+downloads/*.html -whitespace
